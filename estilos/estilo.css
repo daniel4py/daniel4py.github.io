@@ -9,7 +9,7 @@ html {font-size: 20px; /* px significa "pixels": o tamanho da fonte base é agor
   img{
       display: block;
       margin: 0 auto;
-      width: 900px;
+      width: 450px;
   }
   
   p, li {
