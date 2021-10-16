@@ -25,7 +25,7 @@ html {font-size: 20px; /* px significa "pixels": o tamanho da fonte base é agor
     margin: 0 auto;
     background-color:#797979;
     padding: 0 10px 20px 20px;
-    border: 5px solid black;
+    border: 5px solid white;
   }
   h1 {
     margin: 0;
